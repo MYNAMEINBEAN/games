@@ -20835,7 +20835,7 @@
     "thumb6": "https://www.htmlgames.com/uploaded/game/thumb800/coffeemahjong800450.webp",
     "thumb7": "https://www.htmlgames.com/uploaded/game/thumb1000/coffeemahjong1024.webp",
     "thumb8": "https://www.htmlgames.com/uploaded/game/thumb1280/coffeemahjong1280720.webp"
-  }
+  },
   {
     "title": "Futuristic Racer",
     "embed": "https://cloud.onlinegames.io/games/2021/2/futuristic-racer/index-og.html",
